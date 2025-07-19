@@ -7,6 +7,7 @@ public class Main {
         System.out.println("Ano de : " + releaseYear);
         boolean includedInThePlan = true;
         double filmNote = 8.5;
+        char gener = 'A';
 
         double average = (9.5 + 6.3 + 10.0 + 2.2) / 4;
         System.out.println(average);
